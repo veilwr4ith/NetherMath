@@ -12,7 +12,7 @@ Open the terminal or command prompt
 
 Clone the repository using this command:
 
-`https://github.com/saphiraaa/NetherMath`
+`https://github.com/veilwr4ith/NetherMath`
 
 Navigate to the directory where the Python script is located:
 
